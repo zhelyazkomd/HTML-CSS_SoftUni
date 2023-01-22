@@ -1,0 +1,24 @@
+body {
+  background: #e4e978;
+  width: 700px;
+}
+
+.published_date {
+  font-style: italic;
+}
+
+.main_article {
+  background: #f2f4c0;
+  padding: 5px, 15px;
+  margin: 15px, 10px;
+  border: 1px solid #b2ad7d;
+}
+
+section > article {
+  padding: 5px, 15px;
+  width: 700px;
+  background: #f2f4c0;
+  border: 1px solid #b2ad7d;
+  font-style: italic;
+  color: #4c7658;
+}
